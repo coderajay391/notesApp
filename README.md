@@ -3,7 +3,7 @@
 A simple front-end **Notes App** where you can write notes, add them to the list, and delete them.
 
 ## Preview
-<image src="./assets/notesApp1.png"></image>
+<image src="./assets/noteApp1.png"></image>
 <image src="./assets/notesApp2.png"></image>
 
 ## Demo
